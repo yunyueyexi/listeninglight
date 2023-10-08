@@ -1,0 +1,6 @@
+".\Objects\main.obj",
+".\Objects\led.obj",
+".\Objects\public.obj",
+".\Objects\init.obj" 
+TO ".\Objects\shengying" 
+PRINT(".\Listings\shengying.m51")
